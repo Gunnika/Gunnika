@@ -4,3 +4,4 @@
 
 ## Hi 👋, 
 I'm Gunnika Batra, an undergraduate researcher 💻 who is steadily but consistently expanding her skill set in Artificial Intelligence. 
+Know more about me on my [website](https://gunnika.netlify.app/). 
