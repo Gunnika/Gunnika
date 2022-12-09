@@ -3,6 +3,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-b.gunnika@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:b.gunnika@gmail.com)](mailto:b.gunnika@gmail.com)
 
 ## Hi 👋, 
-I'm Gunnika Batra, a Senior Analyst at Ernst & Young and a researcher 💻 who is steadily but consistently expanding her skill set in Artificial Intelligence. 
+I'm Gunnika Batra, an MS CS student at UC San Diego and a researcher 💻 who is steadily but consistently expanding her skill set in Artificial Intelligence. 
 
 Know more about me on my [website](https://gunnika.github.io/). 
