@@ -3,6 +3,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-b.gunnika@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:b.gunnika@gmail.com)](mailto:b.gunnika@gmail.com)
 
 ## Hi 👋, 
-I'm Gunnika Batra, an MS CS student and researcher at UC San Diego 💻.
+I'm Gunnika, dabbling with AI in different sectors 💻.
 
 Know more about me on my [website](https://gunnika.github.io/). 
